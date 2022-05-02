@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Userdebug
 - 👀 I’m interested in android développement
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on custom rom build
+- 💞️ I’m looking to collaborate on custom rom buildings
 - 📫 How to reach me ...
 
 <!---
